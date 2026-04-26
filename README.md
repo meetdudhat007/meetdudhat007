@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI/ML-based projects like Fraud Detection Systems and real-world data science applications<br><br>👯 I’m looking to collaborate on<br>Machine Learning, Data Science, and Full-Stack (FastAPI + React) projects<br><br>🤝 I’m looking for help with<br>Improving model accuracy, deployment of ML models, and scaling real-time systems<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Data Structures & Algorithms (DSA), and Backend Development (FastAPI)<br><br>💬 Ask me about<br>Python, Machine Learning basics, Data Analysis, and project building<br><br>⚡ Fun fact<br>I enjoy turning real-world problems into AI-powered solutions 🚀
+🔭 I’m currently working on<br>AI/ML-based projects like Fraud Detection Systems and real-world data science applications<br><br>🌱 I’m currently learning<br> Machine Learning and Data Structures & Algorithms (DSA)<br><br>💬 Ask me about<br>Python, Machine Learning basics, Data Analysis, and project building<br><br>
 
 
 ## 🌐 Socials:
